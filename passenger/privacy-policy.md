@@ -4,9 +4,9 @@ Last Updated: May 10, 2026
 
 ## Introduction
 
-Your privacy is important to us. This Privacy Policy explains how the Harja Ride App collects, uses, stores, and protects your information when you use our ride booking and transportation services.
+Your privacy is important to us. This Privacy Policy explains how the Masir Ride App collects, uses, stores, and protects your information when you use our ride booking and transportation services.
 
-By using the Harja Ride App, you agree to the collection and use of information in accordance with this Privacy Policy.
+By using the Masir Ride App, you agree to the collection and use of information in accordance with this Privacy Policy.
 
 ---
 
@@ -69,7 +69,7 @@ We use collected information for the following purposes:
 
 # Location Data
 
-Location access is essential for the Harja ride App to function properly.
+Location access is essential for the Masir ride App to function properly.
 
 We use location information to:
 
@@ -158,7 +158,7 @@ However, no method of electronic storage or internet transmission is completely 
 
 # Children's Privacy
 
-The Harja Ride App is not intended for children under the age of 13.
+The Masir Ride App is not intended for children under the age of 13.
 
 We do not knowingly collect personal information from children.
 
@@ -166,7 +166,7 @@ We do not knowingly collect personal information from children.
 
 # Third-Party Services
 
-The Harja Ride App may use third-party services such as:
+The Masir Ride App may use third-party services such as:
 
 * Google Maps
 * Firebase
@@ -192,4 +192,4 @@ Continued use of the app after changes become effective constitutes acceptance o
 
 If you have questions or concerns regarding this Privacy Policy, please contact us.
 
-Email: [support@harja.app](mailto:support@harja.app)
+Email: [support@Masir.app](mailto:support@harja.app)
