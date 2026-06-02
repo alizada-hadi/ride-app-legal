@@ -4,9 +4,9 @@ Last Updated: May 10, 2026
 
 ## Introduction
 
-Your privacy is important to us. This Privacy Policy explains how the Harja Driver App collects, uses, stores, and protects your information when you use our driver platform and transportation services.
+Your privacy is important to us. This Privacy Policy explains how the Masir Driver App collects, uses, stores, and protects your information when you use our driver platform and transportation services.
 
-By using the Harja Driver App, you agree to the collection and use of information in accordance with this Privacy Policy.
+By using the Masir Driver App, you agree to the collection and use of information in accordance with this Privacy Policy.
 
 ---
 
@@ -208,4 +208,4 @@ Continued use of the app after changes become effective constitutes acceptance o
 
 If you have questions or concerns regarding this Privacy Policy, please contact us.
 
-Email: [support@harja.app](mailto:support@harja.app)
+Email: [support@Masir.app](mailto:support@harja.app)
